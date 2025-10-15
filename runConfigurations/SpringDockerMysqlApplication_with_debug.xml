@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringDockerMysqlApplication with debug" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="spring-docker-mysql" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springdockermysql.SpringDockerMysqlApplication" />
+    <option name="VM_PARAMETERS" value="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
